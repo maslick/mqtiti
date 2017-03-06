@@ -1,5 +1,11 @@
 # mqtiti
 
+
+Prereqs: install mosquitto_passwd
+``` sudo apt-get install mosquitto mosquitto-clients```
+
+
+
 1. Clone repo
 ``` git clone https://github.com/maslick/mqtiti```
 
